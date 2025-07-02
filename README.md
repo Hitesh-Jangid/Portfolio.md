@@ -1,75 +1,140 @@
-# Hitesh Kumar
+<!-- ======================= PERSONAL BANNER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Hi%20👋%20I'm%20Hitesh%20Kumar&fontSize=45&fontColor=ffffff" alt="header" />
+</p>
 
-**Location:** Sanchore, Rajasthan (302015), India  
-**Email:** [sutharhitesh315@gmail.com](mailto:sutharhitesh315@gmail.com)  
-**Phone:** +91-7300381133  
-**LinkedIn:** [Hitesh Kumar](https://www.linkedin.com/in/hitesh--jangid/)
-
----
-
-## Objective
-Motivated B.Tech graduate with a focus on Java and Android development, currently pursuing MTech in CSE. Eager to apply full-stack development skills in a challenging environment that fosters innovation, teamwork, and continuous learning. Committed to leveraging technical expertise to contribute impactful solutions.
-
----
-
-## Education
-
-| Year | Qualification | Percentage | Institute |
-|------|---------------|------------|-----------|
-| 2026 | MTech         |            | Lovely Professional University, Phagwara, Punjab |
-| 2023 | B. Tech       | 85.70%     | B K Birla Institute of Engineering and Technology, Pilani |
-| 2019 | Sr. Secondary | 71.00%     | Gayatri Vidhya Mandir Senior Secondary School, Sanchore |
-| 2017 | Secondary     | 84.50%     | Government Senior Secondary School, Bhadwal (Sanchore) |
+<p align="center">
+  🚀 Full Stack & Android Developer • 🔐 Cybersecurity & ML Explorer • 📚 2× IEEE Author • 🐧 Linux Enthusiast  
+</p>
+<p align="center">
+  🌍 Jaipur, Rajasthan, India • 📧 <a href="mailto:sutharhitesh315@gmail.com">sutharhitesh315@gmail.com</a> •  
+  🔗 <a href="https://linkedin.com/in/hitesh--jangid/">LinkedIn</a> • 💻 <a href="https://github.com/Hitesh-jangid">GitHub</a>
+</p>
 
 ---
 
-## Technical Skills
+## 🧠 About Me
 
-- **Languages:** Java, JavaScript
-- **Database:** MS SQL, SQLite, Firebase (Android Native)
-- **Operating Systems:** Windows, MacOS, Linux (Debian Based), Android
-- **Other Skills:** Data Structures and Algorithms, Object-Oriented Programming, Android Development, Web Development
-- **Tools:** Database Management Systems, Microsoft Office, Adobe Software, Android Studio
+I’m **Hitesh Kumar**, a detail-oriented software engineer and M.Tech CSE student at **Lovely Professional University** (Top 5%, CGPA: 8.67). With a B.Tech in Computer Science (CGPA: 8.57), I specialize in designing **secure systems**, **scalable applications**, and **intelligent tools** that balance performance and reliability.
 
----
+I'm passionate about:
 
-## Projects
+- 🧠 **Full-Stack Web & Android Development**
+- 🔐 **Cloud Security, Privacy, Cryptography**
+- 🤖 **Applied Machine Learning & Edge AI**
+- 🐧 **Linux & Open-Source Culture**
 
-### Attendance System (Android)
-Developed a mobile attendance application with real-time tracking capabilities using Firebase. Reduced teacher workload by automating attendance marking, with easy data export features.
-
-### Len-Den App (Budget Management)
-Created a user-friendly Android app for personal finance management. Enabled users to easily track income and expenses, providing visual insights into their financial health.
-
-### Academic Portal Website
-Collaborated with a team to develop an academic portal for students and faculty. The portal streamlined access to academic records and assignments, significantly improving the user experience.
+With 2 IEEE research papers, top-tier internships, and award-winning projects, I bring both depth and versatility to software engineering roles.
 
 ---
 
-## Achievements
+## 🛠️ Technical Toolbox
 
-- Merit list of government school, 1st Rank at district level in 8th board, and 77th rank at state level in 10th board.
-- Certificate Course on Computer Concepts (CCC), DOEACC Society, during FEB 2016.
-
----
-
-## Additional Information
-
-- **Quick Learner:** Enthusiastic about learning new technologies and frameworks.
-- **Languages:** Comfortable in English, Hindi, Marwari, and Gujarati.
-- **Collaboration:** Enjoy working in a team-oriented environment.
-
----
-
-## Links
-
-- **LeetCode:** [LeetCode Profile](https://leetcode.com/your_profile_link)
-- **GitHub:** [GitHub Profile](https://github.com/your_github_link)
-- **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=your_google_scholar_link)
-- **Clarivate Analytics:** [Clarivate Profile](https://clarivate.com/your_clarivate_link)
-- **ORCID:** [ORCID Profile](https://orcid.org/your_orcid_link)
-- **ResearchGate:** [ResearchGate Profile](https://www.researchgate.net/profile/your_researchgate_link)
-- **Scopus:** [Scopus Profile](https://www.scopus.com/freelink/start.action?sid=your_scopus_link)
+| Category       | Technologies |
+|----------------|--------------|
+| **Languages**  | C, C++, Java, Kotlin, JavaScript, Python |
+| **Web Stack**  | HTML, CSS, React.js, Next.js, Redux, Node.js, Express.js |
+| **Mobile Dev** | Android Studio (Java/Kotlin), Firebase |
+| **Databases**  | MongoDB, MySQL, SQLite, Firebase Realtime DB |
+| **Cloud/Infra**| AWS, Git, GitHub, Docker |
+| **Security**   | AES, RSA, OpenSSL, SHA‑256 |
+| **AI/ML**      | Scikit-learn, pandas, NumPy |
+| **Tools**      | Linux, Adobe Suite, MS Office |
+| **Languages Spoken** | Hindi (Native), English (Fluent), Gujarati, Rajasthani, Marwari |
 
 ---
 
+## 💼 Professional Experience
+
+### 🔹 **Celebal Technologies** – Cloud Infrastructure & Security Intern  
+📍 Jaipur, India | 🗓️ Jun 2025 – Present  
+- Engineered scalable cloud backends using Node.js and MongoDB.  
+- Deployed CI/CD pipelines with integrated security logging and containerization.
+
+### 🔹 **Siemens Industry Software (India)** – Software Engineering Intern  
+📍 Gurugram | 🗓️ Nov 2023 – Mar 2024  
+- Developed UI libraries with React/Redux, reducing render times by 63%.  
+- Refined API logic and lazy-loading to cut page load times by 56%.  
+- Built UI components used by 10M+ users.
+
+---
+
+## 🚀 Highlight Projects
+
+### 🔐 [Ultra Secure Messaging System](https://github.com/Hitesh-jangid/securemessage)  
+**Tech Stack:** C++, Qt5, Python, OpenSSL, AES, RSA, SHA-256  
+- Built CLI & GUI-based encrypted messaging with hybrid AES‑RSA encryption.  
+- Integrated real-time anomaly detection with a Python-based ML module.  
+- Ensures complete message integrity, confidentiality, and cross-platform delivery.
+
+---
+
+### 💰 [Len‑Den – Personal Budgeting App](https://github.com/Hitesh-jangid/Len-Den)  
+**Tech Stack:** Java, Kotlin, Firebase, SQLite, Android Studio  
+- Real-time budgeting and financial visualization on Android.  
+- Firebase-powered transaction sync and user analytics dashboard.  
+- Offline caching with SQLite and sleek mobile UI.
+
+---
+
+### 📊 [Smart Android Attendance System](https://github.com/Hitesh-jangid/Attendance_System)  
+**Tech Stack:** Java, Firebase, XML  
+- Role-based login and cloud-synced student attendance tracker.  
+- Real-time updates using Firebase Realtime Database and robust auth layer.
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Duration | Result |
+|--------|-------------|----------|--------|
+| M.Tech in CSE | Lovely Professional University | 2024–2026 | 8.67 CGPA |
+| B.Tech in CSE | B K Birla Institute of Engineering & Technology, Pilani | 2019–2023 | 8.57 CGPA |
+| Class 12 (Science) | Gayatri Vidhya Mandir, Sanchore | 2017–2019 | 71.0% |
+| Class 10 | Govt. Sr. Sec. School, Bhadwal | 2016–2017 | 84.5% |
+
+---
+
+## 📜 Certifications
+
+- ✅ Data Structures & Algorithms – CipherSchool  
+- ✅ Developing ML Applications – AWS  
+- ✅ Node.js / Express.js / MongoDB – Udemy  
+- ✅ Explore ML – Google  
+- ✅ Complete Interview Prep – GeeksforGeeks  
+
+---
+
+## 🏆 Awards & Honors
+
+- 🥇 **Gold Medal** in Art Contest  
+- 🏆 **Top 10% Student** at LPU  
+- 🏅 **Merit Holder** in 8th & 10th RBSE State Exams  
+- 🥉 **3rd Place** – Coding Ninja Hackathon  
+- 📜 **Certified by Ministry of IT** – DOEACC, Govt. of India
+
+---
+
+## 📝 Publications
+
+1. **Adaptive Security & Privacy for Cloud APIs: A Review** – *IEEE Xplore, 2025*  
+2. **Lightweight Cryptography in Federated Edge AI** – *Accepted, 2025*
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hitesh-jangid&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-jangid&layout=compact&theme=tokyonight" width="350"/>
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:sutharhitesh315@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hitesh--jangid/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Hitesh-jangid"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
